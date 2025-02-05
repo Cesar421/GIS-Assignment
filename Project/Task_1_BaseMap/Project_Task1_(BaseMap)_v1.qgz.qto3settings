@@ -1,0 +1,46 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "DTK_2019_457f78db_c864_4302_8235_e21fcd7e5706": {
+        "enabled": true,
+        "groups": []
+      },
+      "districts_utm32_with_table_info_fd13154b_2b37_425f_ada9_c895da817725": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:b0f45bb8": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 0,
+      "layerId": "DTK_2019_457f78db_c864_4302_8235_e21fcd7e5706",
+      "name": "DTK_2019",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "districts_utm32_with_table_info_fd13154b_2b37_425f_ada9_c895da817725",
+      "name": "Districts Weimar_Group18_Info — districts_utm32_with_table_info",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:b0f45bb8",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}
