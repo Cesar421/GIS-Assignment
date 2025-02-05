@@ -1,0 +1,6 @@
+district_id;district_name;total_population;population_over_18;median_income_euros;population_density_per_m2
+1;District A;15000;12000;42500;0.75
+2;District B;25000;20000;43750;1.20
+3;District C;30000;24000;41000;0.95
+4;District D;18000;14000;45000;0.60
+5;District E;22000;18000;43000;1.10
